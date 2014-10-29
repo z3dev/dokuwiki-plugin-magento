@@ -1,0 +1,7 @@
+base   magento
+author Z3 Development
+email  z3-dev@gfnews.net
+date   2014-09-11
+name   Magento Auth Plugin
+desc   Provides user authentication against information found in Magento databases.
+url    http://www.dokuwiki.org/plugin:magento
